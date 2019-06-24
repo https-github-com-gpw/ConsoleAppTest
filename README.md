@@ -1,2 +1,1 @@
-# ConsoleAppTest
-我的个人项目
+# ConsoleAppTest 测试项目
